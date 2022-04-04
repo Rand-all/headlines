@@ -1,2 +1,2 @@
 # headlines
-Headlines for all the vulnerabilities that have made news
+A python/flask site showing headlines of all the vulnerabilities that have made news.
